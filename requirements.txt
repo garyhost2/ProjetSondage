@@ -3,3 +3,4 @@ pandas
 plotly
 openpyxl     # Excel export
 fpdf2        # tiny PDF helper
+matplotlib   
